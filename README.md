@@ -12,7 +12,7 @@ This project is a responsive webpage designed with a modern aesthetic. The layou
 
 2. **Navigate to the Project Directory**:
     ```sh
-    cd BATCH SYSTEM
+    cd App Landing Page
     ```
 
 3. **Open the HTML File**:
