@@ -1,4 +1,4 @@
-# Project Name
+# App Landing Page
 
 ## Overview
 This project is a responsive webpage designed with a modern aesthetic. The layout is optimized for various screen sizes, ensuring a seamless user experience across devices. The project utilizes HTML for structure, CSS for styling, and JS for any interactive features.
